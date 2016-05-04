@@ -1,4 +1,4 @@
-package com.codepath.examples.audiovideodemo;
+package com.example.martin.audio_video;
 
 import android.content.Intent;
 import android.os.Bundle;

@@ -1,13 +1,13 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 21
+    compileSdkVersion 23
     buildToolsVersion "22.0.1"
 
     defaultConfig {
-        applicationId "com.codepath.examples.audiovideodemo"
-        minSdkVersion 18
-        targetSdkVersion 21
+        applicationId "com.example.martin.audio_video"
+        minSdkVersion 10
+        targetSdkVersion 23
     }
 
     buildTypes {
@@ -19,6 +19,6 @@ android {
 }
 
 dependencies {
-   compile 'com.android.support:appcompat-v7:22.2.0'
-   compile 'com.android.support:support-v4:22.2.0'
+   compile 'com.android.support:appcompat-v7:23.3.0'
+   compile 'com.android.support:support-v4:23.3.0'
 }

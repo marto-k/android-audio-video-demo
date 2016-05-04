@@ -1,4 +1,4 @@
-package com.codepath.examples.audiovideodemo;
+package com.example.martin.audio_video;
 
 import java.io.File;
 
