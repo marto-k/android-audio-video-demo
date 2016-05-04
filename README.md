@@ -1,6 +1,6 @@
 # Audio and Video Demo
 
-App which shows how to playback and capture audio / video within an Android application. Check out the corresponding [Audio / Video Cliffnotes](http://guides.thecodepath.com/android/Video-and-Audio-Playback-and-Recording) for a more detailed tutorial of how this works.
+App which shows how to playback and capture audio / video within an Android application.
 
 Features:
 
